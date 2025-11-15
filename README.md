@@ -13,3 +13,5 @@ This project aims to demonstrate a microservices architecture for a video-to-MP3
 - **RabbitMQ**: A message broker used for inter-service communication.
 - **Docker**: Containerization tool for easy deployment and scaling.
 - **Kubernetes**: Orchestration tool for managing and scaling containers.
+
+
